@@ -1,3 +1,3 @@
 # google-homepage
-Google Homepage Project
-link to this project on theodinproject.com
+Google.com homepage project, 
+http://www.theodinproject.com/web-development-101/html-css
